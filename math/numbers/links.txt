@@ -1,0 +1,5 @@
+https://www.codewars.com/kata/computing-the-complex-logarithm-function
+https://www.codewars.com/kata/computing-the-complex-gamma-function
+https://www.codewars.com/kata/computing-the-complex-exponential-function
+https://www.codewars.com/kata/computing-the-normal-distribution-table
+https://www.codewars.com/kata/compute-the-largest-sum-of-all-contiguous-subsequences
